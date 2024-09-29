@@ -9,4 +9,3 @@ Currently, two official plugins are available:
 ![road-1072823__340](https://github.com/user-attachments/assets/8ca8ea00-eb49-4a9b-9228-9b9d36adbd66)
 
 
-![road-1072823__340](https://github.com/user-attachments/assets/94afb232-c341-486a-9ca9-82846a3280ef)
