@@ -1,0 +1,22 @@
+.features{
+    display: flex;
+   width: 100%;
+    gap: 20px;
+  
+}
+.features1{
+    width: 33%;
+    padding-top: 20px;
+    
+}
+.features2{
+    width: 33%;
+    padding-top: 20px;
+ 
+}
+.features3{
+    width: 34%;
+    padding-top: 20px;
+   
+   
+}
